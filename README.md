@@ -1,4 +1,4 @@
-# Background Removal Project 🌆
+# Background Remover 🌆
 
 ## 📂 Overview
 This project implements an automatic background removal technique using OpenCV's GrabCut algorithm. The program allows users to select an image and removes its background, leaving only the foreground object.
